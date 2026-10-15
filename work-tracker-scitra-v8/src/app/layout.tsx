@@ -22,6 +22,7 @@ export const metadata: Metadata = {
   applicationName: "Scitra",
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
+  verification: { google: "FqR0R-faCq3u3DmWMJem_S3dKwj1BY7ZeqxasReWs_k" },
   openGraph: {
     type: "website",
     url: SITE_URL,
