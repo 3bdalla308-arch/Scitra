@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scitra.vercel.app/sitemap.xml
